@@ -20,7 +20,7 @@ include "dbconn.php";
                 <center>
                 <h2>Login</h2>
              
-                <label>Username</label>
+                <label>Username1</label>
                 <input type="text" name="uname" placeholder="Enter Username" >
                 <br><br>
                 <label>Password</label>
